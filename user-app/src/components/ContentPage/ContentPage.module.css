@@ -1,0 +1,46 @@
+.pageWrapper {
+  width: 50%;
+  margin: 0 auto;
+  padding: 2rem;
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.contentRow {
+  width: 100%;
+  margin: 1rem;
+}
+
+img {
+  width: 400px;
+  margin: 15px;
+}
+
+.heroImage img {
+  width: 600px;
+}
+
+
+.headTitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+/* .headDescription {
+
+} */
+
+.textTitle {
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+@media only screen and (max-width: 768px) {
+  .pageWrapper {
+    width: 70%;
+  }
+}

@@ -1,0 +1,44 @@
+
+.pageRowWrapper {
+    width: 100%;
+    padding: 0.4rem;
+    margin: 20px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+}
+
+.contentWrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-around;
+    min-height: 100px;
+    width: 70%;
+    padding: 0.5rem 1rem;
+}
+
+.headTitle {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.textTitle {
+    text-align: center;
+}
+
+.actions {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+button {
+    padding: 0.8rem 1rem;
+    color: white;
+    outline: none;
+    cursor: pointer;
+}

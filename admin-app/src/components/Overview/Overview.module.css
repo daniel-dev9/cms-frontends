@@ -1,0 +1,38 @@
+
+.adminHeader {
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 1rem;
+}
+
+.adminHeader h1 {
+    font-size: 2.5rem;
+    width: 100%;
+    text-align: center;
+}
+
+.addnew {
+    padding: 1rem 2rem;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(24, 175, 24);
+    outline: none;
+    margin: auto;
+}
+
+.overviewWrapper {
+    width: 60%;
+    padding: 2rem;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+}
+

@@ -1,0 +1,23 @@
+{
+    "nav.back": "Dos",
+    "nav.title.overview": "Aperçu",
+    "nav.title.edit": "Modifier la page",
+    "nav.title.add": "ajouter une page",
+    "edit.url": "URL: ",
+    "edit.image": "Image: ",
+    "edit.image.1": "Image 1: ",
+    "edit.image.2": "Image 2: ",
+    "edit.image.3": "Image 3: ",
+    "edit.form.title": "Modifier le contenu: ",
+    "edit.head.title": "Titre principal: ",
+    "edit.head.desc": "Description de la tête: ",
+    "edit.text.title": "Titre du texte: ",
+    "edit.text.paragraph": "Paragraphe de texte: ",
+    "edit.submit": "Mettre à jour",
+    "add.title": "ajouter un nouveau",
+    "add.submit": "ajouter",
+    "overview.header": "Administrateur",
+    "overview.add.new": "Ajouter un nouveau",
+    "row.edit.btn": "Éditer",
+    "row.remove.btn": "supprimer"
+}

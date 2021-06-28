@@ -1,0 +1,23 @@
+{
+    "nav.back": "Back",
+    "nav.title.overview": "Overview",
+    "nav.title.edit": "Edit page",
+    "nav.title.add": "Add page",
+    "edit.url": "URL: ",
+    "edit.image": "Image: ",
+    "edit.image.1": "Image 1: ",
+    "edit.image.2": "Image 2: ",
+    "edit.image.3": "Image 3: ",
+    "edit.form.title": "Edit content: ",
+    "edit.head.title": "Head title: ",
+    "edit.head.desc": "Head description: ",
+    "edit.text.title": "Text title: ",
+    "edit.text.paragraph": "Text paragraph: ",
+    "edit.submit": "Update",
+    "add.title": "Add new",
+    "add.submit": "Add",
+    "overview.header": "Admin",
+    "overview.add.new": "Add new",
+    "row.edit.btn": "Edit",
+    "row.remove.btn": "Remove"
+}
